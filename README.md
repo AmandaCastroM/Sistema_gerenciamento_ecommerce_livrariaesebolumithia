@@ -1,0 +1,2 @@
+# Sistema_gerenciamento_ecommerce_livrariaesebolumithia
+Sistema de gerenciamento para um e-commerce ficticio
